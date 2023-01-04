@@ -1,0 +1,10 @@
+.travel_mainDiv{
+    border:1px    solid brown;
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5{
+    margin:20px;
+    
+}
